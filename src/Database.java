@@ -30,10 +30,5 @@ public class Database {
         } catch (InputMismatchException e) {
             System.out.println("False datatype, type in a number");
         }
-
-
-
     }
-
-
 }
